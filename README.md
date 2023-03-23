@@ -1,2 +1,3 @@
-# labAssignment_5
-Build: gcc lab_assignment_5.c
+# HOW TO RUN C PROGRAM
+Build: gcc NAME_OF_FILE.c
+
